@@ -238,7 +238,6 @@ GEM
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
     unicode-display_width (1.6.0)
-    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -246,7 +245,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   minima (~> 2.5)
-  wdm (~> 0.1.1)
 
 BUNDLED WITH
    1.17.3
