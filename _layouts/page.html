@@ -9,16 +9,15 @@
         {%- include custom.scss -%}
     </style>
 
-    {%- include header.html -%}
+    
 
     <main class="page-content" aria-label="Content">
-       
-        {{ content }} 
-       
+        {{ content }}
     </main>
-
-    {%- include footer.html -%}
-
+ 
+    <script>
+        {%- include utils.js -%} 
+    </script>
   </body>
 
 </html> 
