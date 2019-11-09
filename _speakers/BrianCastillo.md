@@ -1,6 +1,6 @@
 ---
 name: Brian Castillo
-topics: Firebase, flutter, kotlin, android, dart,adobe xd, emprendimiento para programadores, lo que callan los CTOs, Como no mandar a la mierda a tu CEO ,Como no cargarla en el amor, Como Quebrar tu empresa
+topics: Firebase, Flutter, Kotlin, Android, Dart,adobe XD, Emprendimiento
 picture: https://avatars2.githubusercontent.com/u/8286274?s=460&v=4
 email: briancastillo008@gmail.com
 github: 'https://www.github.com/briansalvattore'
