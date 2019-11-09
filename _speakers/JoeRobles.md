@@ -2,7 +2,7 @@
 name: Joe Robles
 topics: Serverless AWS for Angular and Node JS
 picture: https://avatars0.githubusercontent.com/u/197113?s=460&v=4
-mail: joe.robles.pdj@gmail.com
+email: joe.robles.pdj@gmail.com
 twitter: 'https://twitter.com/JoeRobles'
 ---
 

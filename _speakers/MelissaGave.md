@@ -2,7 +2,7 @@
 name: Melissa Gave
 topics: google
 picture: https://pbs.twimg.com/profile_images/1012770899186110465/bYhAWN6-.jpg
-mail: melissagave@gmail.com
+email: melissagave@gmail.com
 twitter: 'https://twitter.com/MelissaGaveM'
 ---
 
