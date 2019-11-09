@@ -16,7 +16,7 @@ permalink: "/speakers/"
         <div class="card"> 
           <div class="front">
             <span class="profile">
-              <img src="{{ speaker.picture }}" width="50px">
+              <img src="{{ speaker.picture }}" width="80px">
               <h2>{{ speaker.name }}</h2>
               <small>{{ speaker.email }}</small>
               <br/><br/>
