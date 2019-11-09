@@ -11,7 +11,7 @@ permalink: "/speakers/"
 
   <div class="speakers-grid">
     
-    {% for speaker in site.speakers %}
+    {% for speaker in site.speakers | sort: "name" %}
       <div class="container">
         <div class="card"> 
           <div class="front">
