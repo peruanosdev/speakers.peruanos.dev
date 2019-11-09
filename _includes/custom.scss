@@ -6,6 +6,7 @@ body {
 .speakers-grid {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .main-container {
@@ -58,20 +59,23 @@ body {
     color: #47525d;
   }
   .card .front h2 {
-    padding: 15px;
+    margin:0;
     line-height: 25px;
   }
   .card .front small {
-    
-    padding: 10px;
+    padding: 11px;
   }
   .card .front img {
       border-radius: 50%;
+      margin-bottom: 10px;
   }
   .card .front span {
-    
     text-align: center;
-}
+    padding: 15px;
+  }
+  .card .front span small {
+    font-size: 11px;
+  }
   .card .back {
     overflow: hidden;
     -webkit-transform: rotateY(180deg);
@@ -94,4 +98,7 @@ body {
     -ms-perspective: 800px;
     perspective: 800px;
     border-radius: 4px;
+  }
+
+  .social { 
   }
