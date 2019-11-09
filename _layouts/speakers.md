@@ -20,7 +20,7 @@ permalink: "/speakers/"
               <h2>{{ speaker.name }}</h2>
               <small>{{ speaker.email }}</small>
               <br/>
-              <small>{{ speaker.location }}</small>
+              <small><b>{{ speaker.location }}</b></small>
               <br/><br/>
               <small>{{ speaker.topics }}</small>
               <br/><br/>
