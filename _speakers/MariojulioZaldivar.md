@@ -6,3 +6,5 @@ location: Lima
 email: zaldivar.alvarez@gmail.com
 website: http://www.mariojulio.com
 ---
+Mariojulio Zaldivar
+Ingeniero de Software con mas con mas de 13 años de experiencia en desarrollo de software. Con una maestría  en Ciencias de la Computación por Digipen Institute of Technology, ha desarrollado videojuegos y experiencias 3D, y actualmente colabora en el desarrollo del Magic Leap SDK, en los headquarters de Magic Leap en Florida.
