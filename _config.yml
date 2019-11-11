@@ -9,8 +9,6 @@ baseurl: ""
 url: "" 
 
 theme: minima 
-plugins:
-  - jekyll-feed
 
 collections:
   speakers:
