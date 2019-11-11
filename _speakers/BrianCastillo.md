@@ -6,6 +6,7 @@ email: briancastillo008@gmail.com
 github: 'https://www.github.com/briansalvattore'
 twitter: 'https://twitter.com/BrianSalvattore'
 linkedin: 'https://www.linkedin.com/in/briansalvattore/'
+location: Lima
 ---
 
 Geek que le gusta los superheroes, ama la pasta y le encanta amanecerce programando. 
