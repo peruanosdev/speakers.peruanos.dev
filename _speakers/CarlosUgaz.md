@@ -6,6 +6,7 @@ email: carlosgabrielugazburga@gmail.com
 github: 'https://www.github.com/carlosgub'
 twitter: 'https://twitter.com/carlosgub'
 linkedin: 'https://www.linkedin.com/in/carlosgub/'
+location: Lima
 ---
 
 Soy dev en Android y amante de Firebase ❤️.
