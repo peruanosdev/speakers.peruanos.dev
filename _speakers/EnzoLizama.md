@@ -6,7 +6,7 @@ email: lizama.enzo@gmail.com
 github: 'https://www.github.com/enzoftware'
 twitter: 'https://twitter.com/enlizpa'
 linkedin: 'https://www.linkedin.com/in/enzolizama/'
-
+location: Lima
 
 ---
 
