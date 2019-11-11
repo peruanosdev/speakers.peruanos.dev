@@ -5,5 +5,6 @@ picture: https://scontent.flim19-1.fna.fbcdn.net/v/t1.0-9/44475026_1021713336158
 email: stephmanriquech@gmail.com
 github: 'https://www.github.com/steph_manrique'
 twitter: 'https://twitter.com/StephManrique'
-linkedin: 'https://www.linkedin.com/in/dorismanrique/' 
+linkedin: 'https://www.linkedin.com/in/dorismanrique/'
+location: Lima
 ---
