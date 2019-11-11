@@ -5,6 +5,7 @@ picture: 'https://scontent.flim19-1.fna.fbcdn.net/v/t1.0-9/p960x960/44324925_101
 email: me@karendacruz.com
 github: 'https://github.com/kandra'
 twitter: 'https://twitter.com/karen_dax'
-linkedin: 'https://www.linkedin.com/in/karen-da-cruz-40826023/' 
+linkedin: 'https://www.linkedin.com/in/karen-da-cruz-40826023/'
+location: Lima
 ---
 Systems engineer with experience in project management and business analysis. Scrum Master certified, with plenty experience in web. Open source and mobile technologies. Likes to solve problems and learn new things every day. 
