@@ -6,6 +6,7 @@ email: micorreo@domain.com
 github: 'https://www.github.com/ykro'
 twitter: 'https://twitter.com/ykro'
 linkedin: 'https://www.linkedin.com/in/adriancatalan'
+location: Guatemala
 country: GT
 canTravel: Y
 ---
