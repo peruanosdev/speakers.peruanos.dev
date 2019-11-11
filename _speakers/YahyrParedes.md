@@ -6,6 +6,7 @@ email: yahyrparedesarteaga@gmail.com
 github: 'https://www.github.com/killerypa'
 twitter: 'https://twitter.com/killerypa'
 linkedin: 'https://www.linkedin.com/in/killerypa/'
+location: Lima
 ---
 
 Enthusiastic developer with a hacker's heart passionate about rare topics.
