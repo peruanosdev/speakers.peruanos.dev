@@ -6,6 +6,7 @@ email: K4torce@gmail.com
 github: 'https://www.github.com/kerpie'
 twitter: 'https://twitter.com/kerpie'
 linkedin: https://www.linkedin.com/in/k4torce/
+location: Lima
 ---
 
 Android developer on daytime... biker, cooker and mess master on night time (yep, it says mess)
