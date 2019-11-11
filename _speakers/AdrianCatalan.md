@@ -1,6 +1,6 @@
 ---
 name: Adrian Catalan
-topics: Android, Flutter, Firebase, IoT
+topics: Android, Flutter, Firebase, IoT, Machine Learning
 picture: https://avatars3.githubusercontent.com/u/398169?s=400&v=4
 email: adriancatalan@elementalgeeks.com
 github: 'https://www.github.com/ykro'
