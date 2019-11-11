@@ -8,6 +8,6 @@ twitter: 'https://twitter.com/ykro'
 linkedin: 'https://www.linkedin.com/in/adriancatalan'
 location: Guatemala
 country: GT
-canTravel: Y
+canPayTravel: Y
 ---
 Android, IoT & Firebase GDE, Launchpad Mentor, Sprint Master. GCDC Guatemala organizer and GalileoU Innovation Lab Director.
