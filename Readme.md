@@ -30,7 +30,7 @@ Pasos:
         Agrega tu bio y personalizalo usando markdown
     ```
     
-3. Envia tu PR
+3. Envia tu Pull Request
 
 ### Setup Deveploment
 To start this application locally:
