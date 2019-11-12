@@ -11,9 +11,9 @@ El cual pretende resolver el problema de:
 Envíanos un PR con tus datos para figurar en el listado. 
 
 Pasos: 
-1. Crear un archivo con tu nombre en el directorio _speackers
+1. Crear un archivo con tu nombre en el directorio _speakers
     ```
-        $ vi _speackers/NombreApellido.md
+        $ vi _speakers/NombreApellido.md
     ```
 2. Registrar tus datos
 
@@ -21,7 +21,7 @@ Pasos:
         ---
         name: Nombre y Apellidos
         topics: Lista las tecnologias que usas
-        picture: https://your-pircture
+        picture: https://your-picture
         email: micorreo@domain.com
         github: 'https://www.github.com/username'
         twitter: 'https://twitter.com/username'
