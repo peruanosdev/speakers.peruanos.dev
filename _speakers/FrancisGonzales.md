@@ -8,6 +8,6 @@ twitter: 'https://twitter.com/FraGoTe'
 linkedin: 'https://www.linkedin.com/in/fragote/'
 location: Lima
 country: PE
-canPayTravel: Y
+canPayTravel: 1
 ---
 Informatic Engineer 👨🏽‍💻
