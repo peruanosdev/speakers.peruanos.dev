@@ -10,4 +10,4 @@ medium: 'https://medium.com/@cerberodev'
 location: Lima
 ---
 
-Amante de los carritos de Hot Wheels, autodidacta de nacimiento | Mobile & Web Developer | Flutter Lover💙👨🏾‍💻🤙🏾| Organizer of @hacker_dome & @FlutterPeru
+Amante de los carritos de Hot Wheels, autodidacta de nacimiento, Flutter Lover💙👨🏾‍💻🤙🏾 Mobile & Web Developer, Organizer of @hacker_dome & @FlutterPeru
