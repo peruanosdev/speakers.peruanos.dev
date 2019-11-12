@@ -29,6 +29,8 @@ Pasos:
         ---
         Agrega tu bio y personalizalo usando markdown
     ```
+    
+3. Envia tu PR
 
 ### Setup Deveploment
 To start this application locally:
