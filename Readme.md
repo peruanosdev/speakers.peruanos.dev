@@ -18,16 +18,16 @@ Pasos:
 2. Registrar tus datos
 
     ```
-        ---
-        name: Nombre y Apellidos
-        topics: Lista las tecnologias que usas
-        picture: https://your-picture
-        email: micorreo@domain.com
-        github: 'https://www.github.com/username'
-        twitter: 'https://twitter.com/username'
-        linkedin: 'https://www.linkedin.com/in/username' 
-        ---
-        Agrega tu bio y personalizalo usando markdown
+    ---
+    name: Nombre y Apellidos
+    topics: Lista las tecnologias que usas
+    picture: https://your-picture
+    email: micorreo@domain.com
+    github: 'https://www.github.com/username'
+    twitter: 'https://twitter.com/username'
+    linkedin: 'https://www.linkedin.com/in/username' 
+    ---
+    Agrega tu bio y personalizalo usando markdown
     ```
     
 3. Envia tu Pull Request
