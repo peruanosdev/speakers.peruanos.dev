@@ -27,6 +27,7 @@ Pasos:
     twitter: 'https://twitter.com/username'
     linkedin: 'https://www.linkedin.com/in/username' 
     ---
+    
     Agrega tu bio y personalizalo usando **markdown**
     ```
     
