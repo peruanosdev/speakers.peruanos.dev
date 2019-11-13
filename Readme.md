@@ -27,7 +27,7 @@ Pasos:
     twitter: 'https://twitter.com/username'
     linkedin: 'https://www.linkedin.com/in/username' 
     ---
-    Agrega tu bio y personalizalo usando markdown
+    Agrega tu bio y personalizalo usando **markdown**
     ```
     
 3. Envia tu Pull Request
