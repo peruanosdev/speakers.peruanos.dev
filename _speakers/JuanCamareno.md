@@ -1,6 +1,6 @@
 ---
 name: Juan Carlos Camareno
-topics: PHP, Java, Asp Net
+topics: PHP, Java, Asp Net, Android (Kotlin)
 picture: https://media.licdn.com/dms/image/C4E03AQFpzCztAV0nUg/profile-displayphoto-shrink_200_200/0?e=1579132800&v=beta&t=dEXXtqDA6KRnqsRyN7Ps8bdK1_kyjNoYO4_T6eDTTzQ
 email: jchcamareno@gmail.com
 github: 'https://www.github.com/jchwin'
