@@ -78,6 +78,8 @@ body {
     font-size: 11px;
   }
   .card .back {
+    display: flex;
+    flex-direction: column;
     overflow: hidden;
     -webkit-transform: rotateY(180deg);
     transform: rotateY(180deg);
@@ -85,6 +87,10 @@ body {
   .card .back p {
     font-size: 12px;
     padding: 10px;
+    max-width: 100%;
+  }
+  .card .back p img{
+    width: 100%;
   }
   .card.flipped {
     -webkit-transform: rotateY(180deg);
