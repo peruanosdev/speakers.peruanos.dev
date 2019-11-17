@@ -1,7 +1,7 @@
 ---
 name: Fahed Hermoza
 topics: Android, Kotlin, Seguridad and Firebase  
-picture: https://miro.medium.com/max/3150/1*i6s1IrKXDNu9Ygn0no6S8A.jpeg
+picture: https://avatars1.githubusercontent.com/u/8326973?s=460&v=4
 email: fahedhermoza@gmail.com
 github: 'https://github.com/FahedHermoza'
 facebook: 'https://web.facebook.com/fahed19'
