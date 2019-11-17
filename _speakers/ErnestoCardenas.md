@@ -5,6 +5,7 @@ picture: https://scontent.flim16-2.fna.fbcdn.net/v/t1.0-9/75339641_1015681132586
 location: Lima
 email: 
 twitter: 'https://twitter.com/fisica3'
-location: 'https://www.linkedin.com/in/ernestocardenasalmdevopscloud/'
+linkedin: 'https://www.linkedin.com/in/ernestocardenasalmdevopscloud/'
+location: Lima
 ---
 Arquitecto Cloud, Microsoft MVP Developer Technologies, apasionado por la nube y el enfoque DevOps. Miembro de las comunidades Agile Perú y Microsoft Users Group Perú.
