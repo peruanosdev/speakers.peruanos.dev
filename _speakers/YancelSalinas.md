@@ -1,6 +1,6 @@
 ---
 name: Yancel Moises Salinas
-topics: Cloud, Python, NodeJS y Linux
+topics: Cloud, Python, NodeJS, Linux
 picture: 'https://miro.medium.com/fit/c/256/256/0*DkCQvZ0yStzc0NWg.'
 email: sagoyanfisic1@gmail.com
 github: 'https://www.github.com/sagoyanfisic'

@@ -1,6 +1,6 @@
 ---
 name: Melissa Gave
-topics: I am remarkable, GBG
+topics: GBG
 picture: https://pbs.twimg.com/profile_images/1012770899186110465/bYhAWN6-.jpg
 email: melissagave@gmail.com
 twitter: 'https://twitter.com/MelissaGaveM'
