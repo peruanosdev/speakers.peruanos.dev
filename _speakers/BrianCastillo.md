@@ -1,6 +1,6 @@
 ---
 name: Brian Castillo
-topics: Firebase, Flutter, Kotlin, Android, Dart,adobe XD, Emprendimiento
+topics: Firebase, Flutter, Kotlin, Android, Dart, adobe XD, Emprendimiento
 picture: https://avatars2.githubusercontent.com/u/8286274?s=460&v=4
 email: briancastillo008@gmail.com
 github: 'https://www.github.com/briansalvattore'

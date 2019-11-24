@@ -1,6 +1,6 @@
 ---
 name: Daniel Danilo Britto Nuñez
-topics: Full Stack Developer, Open Source Contributor, DevC Lead
+topics: Full Stack Developer, Open Source, DevC Lead
 picture: https://avatars0.githubusercontent.com/u/1697714
 email: ddbn.c2@gmail.com.com
 github: 'https://github.com/danilobrinu'
