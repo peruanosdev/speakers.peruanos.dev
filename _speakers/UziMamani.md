@@ -1,6 +1,6 @@
 ---
 name: Uzi Mamani
-topics: DotNet, Java, Architecture, Mobile, Testing 
+topics: .Net, Java, Architecture, Mobile, Testing 
 picture: https://avatars3.githubusercontent.com/u/1823959?s=460&v=4
 location: Lima
 email: uzi.mamani@gmail.com
