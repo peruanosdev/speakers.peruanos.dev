@@ -10,4 +10,9 @@ medium: 'https://medium.com/@mtpradoc'
 location: Peru, Lima
 ---
 
-Google Cloud Platform Certified | Data Engineer | Machine Learning | Big Data | Cloud Computging. 👩 💻 Data Scientist by heart ♥️ , techie by choice ✨
+Google Cloud Platform Certified
+Data Engineer
+Machine Learning Big Data
+Cloud Computging. 
+👩 💻 Data Scientist by heart ♥️ , 
+techie by choice ✨
